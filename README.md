@@ -2,12 +2,21 @@
 
 ## 0-What is The MAIN Purpose of Technology ?
 
-## 1-History of Website ?
+## 1-Intro to WEBSITE
 
-* https://home.cern/science/computing/birth-web/short-history-web
+### 1a-History of Website ?
+
+* [Short History Web](https://home.cern/science/computing/birth-web/short-history-web)
+
+### 1b-good Website
+
+* [A Good Web](https://prezi.com/xlkbzydq2yn2/the-internet-websites-communication/)
 
 
-## 2-A good Website
+## 2-What we need to build Web (Technically) ?
 
-* https://prezi.com/xlkbzydq2yn2/the-internet-websites-communication/
+
+
+
+
 
