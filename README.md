@@ -31,6 +31,15 @@ Picture link: https://guides.github.com/activities/hello-world/
 ## 2-What we need to build Web (Technically) ?
 
 
+## 3-Web Dev Scope and Technology ?
+
+![old-full-stack](https://user-images.githubusercontent.com/27078712/74419849-16494300-4e7d-11ea-83c4-25012194e1ae.png)
+Picture link: https://s3.amazonaws.com/external_clips/attachments/34757/original/old-full-stack.png?1417393506
+
+![full-stack](https://user-images.githubusercontent.com/27078712/74419919-337e1180-4e7d-11ea-8e74-b44d33e28f1c.png)
+Picture link: https://s3.amazonaws.com/external_clips/attachments/34760/original/full-stack.png?1417393522
+
+
 
 
 
