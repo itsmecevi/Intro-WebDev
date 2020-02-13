@@ -60,7 +60,7 @@ Picture link: https://bit.ly/3bzexN0
 ## 6-Hands-On HTML/CSS on EDITOR
 
 * Notepad (Windows), TextEdit (MAC)
-* Online editor -> https://html-online.com/
+* Online editor -> https://html-online.com/ or https://htmlcheatsheet.com/
 * Github : Hosting and Domain
 
 ### 6a-Intro
@@ -78,13 +78,20 @@ Picture link: https://bit.ly/2SKFQeZ
 <body>
 
 <h1>The First Heading</h1>
-<h2>The Second Heading</h2>
-<h3>The Third Heading</h3>
-<p>The first paragraph.</p>
+<p>The First paragraph.</p>
 
 </body>
 </html>
 ```
+
+* Headings :
+
+```
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+```
+
    
   
 ## -Extras 
