@@ -44,6 +44,15 @@ Picture link: https://go.aws/2Hm9ykV
 
 ## 4-How about Wix, Squarespace, Weebly, Jimdo, 1&1 Ionos ?
 
+* Cloud Computing :
 
 
+
+   * SaaS : BigCommerce, Google Apps, Salesforce, Dropbox, MailChimp, ZenDesk, DocuSign, Slack, Hubspot.
+   * PaaS : AWS Elastic Beanstalk, Heroku, Windows Azure (mostly used as PaaS), Force.com, OpenShift, Apache Stratos, Magento Commerce Cloud.
+   * IaaS : AWS EC2, Rackspace, Google Compute Engine (GCE), Digital Ocean
+
+
+![saas-vs-paas-vs-iaas-1024x953](https://user-images.githubusercontent.com/27078712/74424210-1862d000-4e84-11ea-92ae-a1b29fcc1f2e.png)
+Picture link: https://bit.ly/3bzexN0
 
