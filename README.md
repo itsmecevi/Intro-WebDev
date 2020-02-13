@@ -66,21 +66,12 @@ Picture link: https://bit.ly/3bzexN0
 ### 6a-Intro
 
 * HTML := "Hyper Text Markup Language"
-   * Structurs :
+   * Page Structure :
+   ![html-structure](https://user-images.githubusercontent.com/27078712/74435621-6af9b780-4e97-11ea-9290-edbad9c1871f.png)
+    Picture link: https://bit.ly/2SKFQeZ
    
-   `<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
-</body>
-</html> `
-
+   
+  
 ## -Extras 
 
 ### Change log update
