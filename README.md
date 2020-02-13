@@ -57,7 +57,13 @@ Picture link: https://go.aws/2Hm9ykV
 Picture link: https://bit.ly/3bzexN0
  
  
-## 6-Hands-On HTML/CSS on Github 
+## 6-Hands-On HTML/CSS on EDITOR
+
+* Notepad (Windows), TextEdit (MAC)
+* Online editor -> https://html-online.com/
+* Github : Hosting and Domain
+
+
 
 
 ## -Extras 
