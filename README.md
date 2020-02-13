@@ -21,11 +21,11 @@ Picture link: https://guides.github.com/activities/hello-world/
 
 ### 1a-History of Website ?
 
-* [Short History Web](https://home.cern/science/computing/birth-web/short-history-web)
+* [Cheat](https://home.cern/science/computing/birth-web/short-history-web)
 
 ### 1b-good Website
 
-* [A Good Web](https://prezi.com/xlkbzydq2yn2/the-internet-websites-communication/)
+* [Cheat](https://prezi.com/xlkbzydq2yn2/the-internet-websites-communication/)
 
 
 ## 2-What we need to build Web (Technically) ?
@@ -34,10 +34,12 @@ Picture link: https://guides.github.com/activities/hello-world/
 ## 3-Web Dev Scope and Technology ?
 
 ![old-full-stack](https://user-images.githubusercontent.com/27078712/74419849-16494300-4e7d-11ea-83c4-25012194e1ae.png)
-Picture link: https://s3.amazonaws.com/external_clips/attachments/34757/original/old-full-stack.png?1417393506
+
+Picture link: https://go.aws/2OS7nd7
 
 ![full-stack](https://user-images.githubusercontent.com/27078712/74419919-337e1180-4e7d-11ea-8e74-b44d33e28f1c.png)
-Picture link: https://s3.amazonaws.com/external_clips/attachments/34760/original/full-stack.png?1417393522
+
+Picture link: https://go.aws/2Hm9ykV
 
 
 
