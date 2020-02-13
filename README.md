@@ -69,7 +69,11 @@ Picture link: https://bit.ly/3bzexN0
 ![html-structure](https://user-images.githubusercontent.com/27078712/74435621-6af9b780-4e97-11ea-9290-edbad9c1871f.png)
 Picture link: https://bit.ly/2SKFQeZ
 * Page Structure :
-```
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  ```
 <!DOCTYPE html>
 <html>
 <head>
@@ -83,6 +87,8 @@ Picture link: https://bit.ly/2SKFQeZ
 </body>
 </html>
 ```
+</details>
+
 
 * Headings :
 
