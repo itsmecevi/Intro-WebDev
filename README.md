@@ -63,8 +63,23 @@ Picture link: https://bit.ly/3bzexN0
 * Online editor -> https://html-online.com/
 * Github : Hosting and Domain
 
+### 6a-Intro
 
+* HTML := "Hyper Text Markup Language"
+   * Structurs :
+   
+   `<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html> `
 
 ## -Extras 
 
