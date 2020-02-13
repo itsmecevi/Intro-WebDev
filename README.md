@@ -14,7 +14,8 @@ Version Control -> [Git](https://git-scm.com/) & [Github](https://github.com/)
 Picture link: https://guides.github.com/activities/hello-world/
 
 
-## 0-What is The MAIN Purpose of Technology ?
+## 0-What is The MAIN Purpose of the Technology Courses ?
+
 
 ## 1-Intro to WEBSITE
 
