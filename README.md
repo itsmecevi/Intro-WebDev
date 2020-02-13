@@ -72,7 +72,7 @@ Picture link: https://bit.ly/2SKFQeZ
 * Q1. Page Structure : Tittle, First Heading, First Paragraph
 
 <details>
-  <summary>Answer-1!</summary>
+  <summary>Answer-1</summary>
   
   ```
 <!DOCTYPE html>
@@ -94,7 +94,7 @@ Picture link: https://bit.ly/2SKFQeZ
 * Q2. Headings 1 to Heading 6
 
 <details>
-  <summary>Answer-1!</summary>
+  <summary>Answer-2</summary>
 ```
 <h1>Heading 1</h1>
 <h2>Heading 2</h2>
