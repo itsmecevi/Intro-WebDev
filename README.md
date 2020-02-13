@@ -1,10 +1,12 @@
 # Intro-WebDev
 
-:metal: Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
+Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
-:mailbox_with_no_mail: Slack Instant Messaging -> [Click Here](https://join.slack.com/t/so-hotworkspace/shared_invite/enQtOTUwOTYyMDEwMjQ2LTQ3M2M4Yjk4MzgyOTk0ZmNjMmNlZTM3N2YzYjdmN2U0OTMxZjljNDA5OGFkYzlhYTQ4ZDBhY2IwZmZjNWU3ODc)
+Slack Instant Messaging -> [Click Here](https://join.slack.com/t/so-hotworkspace/shared_invite/enQtOTUwOTYyMDEwMjQ2LTQ3M2M4Yjk4MzgyOTk0ZmNjMmNlZTM3N2YzYjdmN2U0OTMxZjljNDA5OGFkYzlhYTQ4ZDBhY2IwZmZjNWU3ODc)
 
-:hammer: Project Management tools -> [Trello (Kanban)](https://trello.com/b/Ui4A8cwF/trello-learning-resource)
+Project Management tools -> [Trello (Kanban)](https://trello.com/b/Ui4A8cwF/trello-learning-resource)
+
+Version Control -> [Git](https://git-scm.com/) & [Github](https://github.com/)
 
 ## 0-What is The MAIN Purpose of Technology ?
 
