@@ -66,9 +66,8 @@ Picture link: https://bit.ly/3bzexN0
 ### 6a-Intro
 
 * HTML := "Hyper Text Markup Language"
-   * Page Structure :
-   ![html-structure](https://user-images.githubusercontent.com/27078712/74435621-6af9b780-4e97-11ea-9290-edbad9c1871f.png)
-    Picture link: https://bit.ly/2SKFQeZ
+![html-structure](https://user-images.githubusercontent.com/27078712/74435621-6af9b780-4e97-11ea-9290-edbad9c1871f.png)
+Picture link: https://bit.ly/2SKFQeZ
    
    
   
