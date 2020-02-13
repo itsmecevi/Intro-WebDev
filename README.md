@@ -4,7 +4,7 @@ Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/)
 
 Slack Instant Messaging -> [Click Here](https://join.slack.com/t/so-hotworkspace/shared_invite/enQtOTUwOTYyMDEwMjQ2LTQ3M2M4Yjk4MzgyOTk0ZmNjMmNlZTM3N2YzYjdmN2U0OTMxZjljNDA5OGFkYzlhYTQ4ZDBhY2IwZmZjNWU3ODc)
 
-ASK -> Agile, Scrum, Kanban ?
+ASK -> Agile, Scrum, Kanban ? [Cheat](https://www.youtube.com/watch?v=rIaz-l1Kf8w)
 
 Project Management tools -> [Trello (Kanban)](https://trello.com/b/Ui4A8cwF/trello-learning-resource)
 
