@@ -42,6 +42,7 @@ Picture link: https://go.aws/2OS7nd7
 Picture link: https://go.aws/2Hm9ykV
 
 
+## 4-How about Wix, Squarespace, Weebly, Jimdo, 1&1 Ionos ?
 
 
 
