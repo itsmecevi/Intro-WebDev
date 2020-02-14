@@ -16,7 +16,7 @@ Project Management tools -> [Trello (Kanban)](https://trello.com/b/Ui4A8cwF/trel
 Version Control -> [Git](https://git-scm.com/) & [Github](https://github.com/)
 
 ![github](https://user-images.githubusercontent.com/27078712/74410899-afbc2900-4e6c-11ea-9aaf-4e1000e4974f.png)
-Picture link: https://guides.github.com/activities/hello-world/
+Picture link: [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
 
 
 ## 0️⃣-What is The MAIN Purpose of the Technology Courses ?
@@ -44,7 +44,7 @@ Picture link: https://go.aws/2OS7nd7
 
 ![full-stack](https://user-images.githubusercontent.com/27078712/74419919-337e1180-4e7d-11ea-8e74-b44d33e28f1c.png)
 
-Picture link: https://go.aws/2Hm9ykV
+Picture link: [https://go.aws/2Hm9ykV](https://go.aws/2Hm9ykV)
 
 
 ## 4️⃣-How about Wix, Squarespace, Weebly, Jimdo, 1&1 Ionos ?
@@ -76,20 +76,29 @@ Picture link: https://bit.ly/2SKFQeZ
 
 * Q1. Page Structure : Tittle, First Heading, First Paragraph
 
-<pre>
-<code>
+<details>
+  <summary>Answer-1</summary>
+  
+```
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>The Title</title>
+</head>
+<body>
+
+<h1>The First Heading</h1>
+<p>Paragraph</p>
+
+</body>
+</html>
 
 
-<h1>Heading 1</h1>
-<h2>Heading 2</h2>
-<h3>Heading 3</h3>
-<h4>Heading 4</h4>
-<h5>Heading 5</h5>
-<h6>Heading 6</h6>
 
 
-</code>
-</pre>
+```
+</details>
   
 
 
