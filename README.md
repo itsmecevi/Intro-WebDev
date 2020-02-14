@@ -76,9 +76,6 @@ Picture link: https://bit.ly/2SKFQeZ
 
 * Q1. Page Structure : Tittle, First Heading, First Paragraph
 
-<details>
-  <summary>Answer-1</summary>
-  
   <pre>
   <code>
     <!DOCTYPE html>
@@ -96,7 +93,7 @@ Picture link: https://bit.ly/2SKFQeZ
   </code>
 </pre>
   
-</details>
+
 
 
 * Q2. Headings 1 to Heading 6
