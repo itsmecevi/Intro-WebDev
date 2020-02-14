@@ -59,7 +59,7 @@ Picture link: [https://go.aws/2Hm9ykV](https://go.aws/2Hm9ykV)
 
 
 ![saas-vs-paas-vs-iaas-1024x953](https://user-images.githubusercontent.com/27078712/74424210-1862d000-4e84-11ea-92ae-a1b29fcc1f2e.png)
-Picture link: https://bit.ly/3bzexN0
+Picture link: [https://bit.ly/3bzexN0](https://bit.ly/3bzexN0)
  
  
 ## 5️⃣-Hands-On HTML/CSS on EDITOR
