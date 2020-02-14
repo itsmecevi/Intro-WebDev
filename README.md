@@ -14,10 +14,10 @@ Version Control -> [Git](https://git-scm.com/) & [Github](https://github.com/)
 Picture link: https://guides.github.com/activities/hello-world/
 
 
-## 0-What is The MAIN Purpose of the Technology Courses ?
+## 0️⃣-What is The MAIN Purpose of the Technology Courses ?
 
 
-## 1-Intro to WEBSITE
+## 1️⃣-Intro to WEBSITE
 
 ### 1a-History of Website ?
 
@@ -28,10 +28,10 @@ Picture link: https://guides.github.com/activities/hello-world/
 * [Cheat](https://prezi.com/xlkbzydq2yn2/the-internet-websites-communication/)
 
 
-## 2-What we need to build Web (Technically) ?
+## 2️⃣-What we need to build Web (Technically) ?
 
 
-## 3-Web Dev Scope and Technology ?
+## 3️⃣-Web Dev Scope and Technology ?
 
 ![old-full-stack](https://user-images.githubusercontent.com/27078712/74419849-16494300-4e7d-11ea-83c4-25012194e1ae.png)
 
@@ -42,7 +42,7 @@ Picture link: https://go.aws/2OS7nd7
 Picture link: https://go.aws/2Hm9ykV
 
 
-## 4-How about Wix, Squarespace, Weebly, Jimdo, 1&1 Ionos ?
+## 4️⃣-How about Wix, Squarespace, Weebly, Jimdo, 1&1 Ionos ?
 
 * Cloud Computing :
 
@@ -57,13 +57,13 @@ Picture link: https://go.aws/2Hm9ykV
 Picture link: https://bit.ly/3bzexN0
  
  
-## 6-Hands-On HTML/CSS on EDITOR
+## 5️⃣-Hands-On HTML/CSS on EDITOR
 
 * Notepad (Windows), TextEdit (MAC)
 * Online editor -> https://html-online.com/ or https://htmlcheatsheet.com/
 * Github : Hosting and Domain
 
-### 6a-Intro
+### 5a-Intro
 
 * HTML := "Hyper Text Markup Language"
 ![html-structure](https://user-images.githubusercontent.com/27078712/74435621-6af9b780-4e97-11ea-9290-edbad9c1871f.png)
@@ -119,11 +119,12 @@ Picture link: https://bit.ly/2SKFQeZ
 </details>
    
   
-## -Extras 
+## xxxx-Extras 
 
 ### Change log update
 
 * 13.02.2020
+* 14.02.2020
 
 ### References
 
