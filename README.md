@@ -68,61 +68,7 @@ Picture link: https://bit.ly/3bzexN0
 * Online editor -> https://html-online.com/ or https://htmlcheatsheet.com/
 * Github : Hosting and Domain
 
-### 5a-Intro
 
-* HTML := "Hyper Text Markup Language"
-![html-structure](https://user-images.githubusercontent.com/27078712/74435621-6af9b780-4e97-11ea-9290-edbad9c1871f.png)
-Picture link: https://bit.ly/2SKFQeZ
-
-* Q1. Page Structure : Tittle, First Heading, First Paragraph
-
-<details>
-  <summary>Answer-1</summary>
-  
-```
-
-<!DOCTYPE html>
-<html>
-<head>
-<title>The Title</title>
-</head>
-<body>
-
-<h1>The First Heading</h1>
-<p>Paragraph</p>
-
-</body>
-</html>
-
-
-
-
-```
-</details>
-  
-
-
-
-* Q2. Headings 1 to Heading 6
-
-<details>
-  <summary>Answer-2</summary>
-  
-```
-
-
-<h1>Heading 1</h1>
-<h2>Heading 2</h2>
-<h3>Heading 3</h3>
-<h4>Heading 4</h4>
-<h5>Heading 5</h5>
-<h6>Heading 6</h6>
-
-
-
-
-```
-</details>
    
   
 ## xxxx-Extras 
