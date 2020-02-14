@@ -106,12 +106,7 @@ Picture link: https://bit.ly/2SKFQeZ
   <summary>Answer-2</summary>
   
 ```
-<!DOCTYPE html>
-<html>
-<head>
-<title></title>
-</head>
-<body>
+
 
 <h1>Heading 1</h1>
 <h2>Heading 2</h2>
@@ -120,8 +115,7 @@ Picture link: https://bit.ly/2SKFQeZ
 <h5>Heading 5</h5>
 <h6>Heading 6</h6>
 
-</body>
-</html>
+
 
 
 ```
