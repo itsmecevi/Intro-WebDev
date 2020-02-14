@@ -1,15 +1,19 @@
 # Intro-WebDev
 
-<span>&#129311;</span>Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
+<span>&#129311;</span> 
+Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
 <span>&#9993;</span>
 Slack Instant Messaging -> [Click Here](https://join.slack.com/t/so-hotworkspace/shared_invite/enQtOTUwOTYyMDEwMjQ2LTQ3M2M4Yjk4MzgyOTk0ZmNjMmNlZTM3N2YzYjdmN2U0OTMxZjljNDA5OGFkYzlhYTQ4ZDBhY2IwZmZjNWU3ODc)
 
-<span>&#128221;</span>ASK -> Agile, Scrum, Kanban ? [Cheat](https://www.youtube.com/watch?v=rIaz-l1Kf8w)
+<span>&#128221;</span>
+ASK -> Agile, Scrum, Kanban ? [Cheat](https://www.youtube.com/watch?v=rIaz-l1Kf8w)
 
-<span>&#128296;</span>Project Management tools -> [Trello (Kanban)](https://trello.com/b/Ui4A8cwF/trello-learning-resource)
+<span>&#128296;</span>
+Project Management tools -> [Trello (Kanban)](https://trello.com/b/Ui4A8cwF/trello-learning-resource)
 
-<span>&#128298;</span>Version Control -> [Git](https://git-scm.com/) & [Github](https://github.com/)
+<span>&#128298;</span>
+Version Control -> [Git](https://git-scm.com/) & [Github](https://github.com/)
 
 ![github](https://user-images.githubusercontent.com/27078712/74410899-afbc2900-4e6c-11ea-9aaf-4e1000e4974f.png)
 Picture link: https://guides.github.com/activities/hello-world/
