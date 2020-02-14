@@ -40,7 +40,7 @@ Picture link: [https://guides.github.com/activities/hello-world/](https://guides
 
 ![old-full-stack](https://user-images.githubusercontent.com/27078712/74419849-16494300-4e7d-11ea-83c4-25012194e1ae.png)
 
-Picture link: https://go.aws/2OS7nd7
+Picture link: [https://go.aws/2OS7nd7](https://go.aws/2OS7nd7)
 
 ![full-stack](https://user-images.githubusercontent.com/27078712/74419919-337e1180-4e7d-11ea-8e74-b44d33e28f1c.png)
 
