@@ -65,18 +65,22 @@ Picture link: [https://bit.ly/3bzexN0](https://bit.ly/3bzexN0)
 ## 5️⃣-Hands-On HTML/CSS on EDITOR
 
 * Notepad (Windows), TextEdit (MAC)
-* Online editor -> https://html-online.com/ or https://htmlcheatsheet.com/
+* Online editor -> [https://html-online.com/](https://html-online.com/) or [https://htmlcheatsheet.com/](https://htmlcheatsheet.com/)
 * Github : Hosting and Domain
+
 
 
    
   
-## xxxx-Extras 
+## Extras 
 
 ### Change log update
 
 * 13.02.2020
 * 14.02.2020
+* 01.03.2020
 
 ### References
+
+* [Github](github.com)
 
