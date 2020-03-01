@@ -19,10 +19,10 @@ Version Control -> [Git](https://git-scm.com/) & [Github](https://github.com/)
 Picture link: [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
 
 
-## 0️⃣-What is The MAIN Purpose of the Technology Courses ?
+## 0-What is The MAIN Purpose of the Technology Courses ?
 
 
-## 1️⃣-Intro to WEBSITE
+## 1-Intro to WEBSITE
 
 ### 1a-History of Website ?
 
@@ -33,10 +33,10 @@ Picture link: [https://guides.github.com/activities/hello-world/](https://guides
 * [Cheat](https://prezi.com/xlkbzydq2yn2/the-internet-websites-communication/)
 
 
-## 2️⃣-What we need to build Web (Technically) ?
+## 2-What we need to build Web (Technically) ?
 
 
-## 3️⃣-Web Dev Scope and Technology ?
+## 3-Web Dev Scope and Technology ?
 
 ![old-full-stack](https://user-images.githubusercontent.com/27078712/74419849-16494300-4e7d-11ea-83c4-25012194e1ae.png)
 
@@ -47,7 +47,7 @@ Picture link: [https://go.aws/2OS7nd7](https://go.aws/2OS7nd7)
 Picture link: [https://go.aws/2Hm9ykV](https://go.aws/2Hm9ykV)
 
 
-## 4️⃣-How about Wix, Squarespace, Weebly, Jimdo, 1&1 Ionos ?
+## 4-How about Wix, Squarespace, Weebly, Jimdo, 1&1 Ionos ?
 
 * Cloud Computing :
 
@@ -62,13 +62,18 @@ Picture link: [https://go.aws/2Hm9ykV](https://go.aws/2Hm9ykV)
 Picture link: [https://bit.ly/3bzexN0](https://bit.ly/3bzexN0)
  
  
-## 5️⃣-Hands-On HTML/CSS on EDITOR
+## 5-Hands-On HTML/CSS/Bootstrap/JS on EDITOR
 
 * Notepad (Windows), TextEdit (MAC)
 * Online editor -> [https://html-online.com/](https://html-online.com/) or [https://htmlcheatsheet.com/](https://htmlcheatsheet.com/)
 * Github : Hosting and Domain
 
 
+## 6-Hands-On HTML/CSS/Bootstrap/JS on EDITOR
+
+## 7-Hands-On HTML/CSS/Bootstrap/JS on EDITOR
+
+## 8-Hands-On HTML/CSS/Bootstrap/JS on EDITOR
 
    
   
