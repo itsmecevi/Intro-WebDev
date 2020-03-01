@@ -85,6 +85,17 @@ Picture link: [https://bit.ly/3bzexN0](https://bit.ly/3bzexN0)
 -The title Attribute
 -The lang Attribute
 
+* **HTML Headings** :
+-HTML Headings
+-Bigger Headings
+-HTML Horizontal Rules
+-The HTML <head> Element
+  
+* **HTML Paragraphs** :
+-
+-
+-
+
 
 ## 6-Hands-On HTML/CSS/Bootstrap/JS on EDITOR
 
