@@ -76,6 +76,15 @@ Picture link: [https://bit.ly/3bzexN0](https://bit.ly/3bzexN0)
 -HTML Images
 -HTML Lists
 
+* **HTML Elements** :
+-The href Attribute
+-The width and height Attributes
+-The src Attribute
+-The style Attribute
+-The alt Attribute
+-The title Attribute
+-The lang Attribute
+
 
 ## 6-Hands-On HTML/CSS/Bootstrap/JS on EDITOR
 
