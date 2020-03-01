@@ -68,6 +68,14 @@ Picture link: [https://bit.ly/3bzexN0](https://bit.ly/3bzexN0)
 * Online editor -> [https://html-online.com/](https://html-online.com/) or [https://htmlcheatsheet.com/](https://htmlcheatsheet.com/)
 * Github : Hosting and Domain
 
+* Basic :
+-HTML Documents
+-HTML Headings
+-HTML Paragraphs
+-HTML Links
+-HTML Images
+-HTML Lists
+
 
 ## 6-Hands-On HTML/CSS/Bootstrap/JS on EDITOR
 
