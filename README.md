@@ -69,6 +69,11 @@ Picture link: [https://bit.ly/3bzexN0](https://bit.ly/3bzexN0)
 
 Picture link: [Nicole Saidy](https://www.codementor.io/)
 
+### Step 1: The needs
+
+* Listen to their ideas
+* Client questionnaire
+
 
 
  
