@@ -83,13 +83,16 @@ Picture link: [Nicole Saidy](https://www.codementor.io/)
 
 ### Step 3: Wireframes
 
+* Sketchy
+* Digital
+   * https://proto.io/
+   * https://wireframe.cc/
+   * https://balsamiq.com/
+
 * List all your elements to include on a web page
 * Element placement
 * Information hierarchy
 * Interactivity
-* https://proto.io/
-* https://wireframe.cc/
-* https://balsamiq.com/
 * [Example](https://forrst-live.s3.amazonaws.com/multiposts/images/46135/original.jpg?1368261933)
 
 
