@@ -83,7 +83,10 @@ Picture link: [Nicole Saidy](https://www.codementor.io/)
 
 ### Step 3: Wireframes
 
-* Sketchy
+* Sketchy 
+![sketchy](https://user-images.githubusercontent.com/27078712/76163958-484c7d00-617d-11ea-97f2-a74b2b90b5ab.jpg)
+
+Picture Link: [Nicole Saidy](codementor.com)
 * Digital
    * https://proto.io/
    * https://wireframe.cc/
