@@ -86,7 +86,7 @@ Picture link: [Nicole Saidy](https://www.codementor.io/)
 * Sketchy 
 ![sketchy](https://user-images.githubusercontent.com/27078712/76163958-484c7d00-617d-11ea-97f2-a74b2b90b5ab.jpg)
 
-Picture Link: [Nicole Saidy](codementor.com)
+Picture Link: [Nicole Saidy](codementor.io)
 * Digital
    * https://proto.io/
    * https://wireframe.cc/
@@ -118,10 +118,15 @@ Picture Link: [Nicole Saidy](codementor.com)
 * [Example](https://dribbble.com/tags/style_tile)
 
 
-Step 5: Prototype
+### Step 5: Prototype
 
 * https://www.invisionapp.com/
 * https://www.uxpin.com/
+
+
+![mockup](https://user-images.githubusercontent.com/27078712/76164037-02dc7f80-617e-11ea-9c59-b386d3fc2436.png)
+
+Picture Link: [Nicole Saidy](codementor.io)
 
  
  
