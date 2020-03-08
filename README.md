@@ -65,6 +65,11 @@ Picture link: [https://bit.ly/3bzexN0](https://bit.ly/3bzexN0)
 
 > Productivity is never an accident. It is always the result of a commitment to excellence, intelligent planning, and focused effort.” ~ Paul J. Meyer
 
+![design1](https://user-images.githubusercontent.com/27078712/76163218-e38e2400-6176-11ea-945f-f4dc095f448e.jpg)
+
+Picture link: [Nicole Saidy](https://www.codementor.io/)
+
+
 
  
  
@@ -103,7 +108,7 @@ Picture link: [https://bit.ly/3bzexN0](https://bit.ly/3bzexN0)
 -Don't Forget the End Tag
 -HTML Line Breaks
 -The Poem Problem
--The HTML<pre>Element
+-The HTML Element
 
 * **More info in [W3School](https://www.w3schools.com/html/default.asp)**
 
