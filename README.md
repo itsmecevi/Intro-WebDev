@@ -92,10 +92,12 @@ Picture Link: [Nicole Saidy](codementor.com)
    * https://wireframe.cc/
    * https://balsamiq.com/
 
-* List all your elements to include on a web page
-* Element placement
-* Information hierarchy
-* Interactivity
+* List all your elements to include on a web page :
+   * Content
+   * Structure
+   * Hierarchy
+   * Functionality
+   * Behavior
 * [Example](https://forrst-live.s3.amazonaws.com/multiposts/images/46135/original.jpg?1368261933)
 
 
