@@ -60,9 +60,15 @@ Picture link: [https://go.aws/2Hm9ykV](https://go.aws/2Hm9ykV)
 
 ![saas-vs-paas-vs-iaas-1024x953](https://user-images.githubusercontent.com/27078712/74424210-1862d000-4e84-11ea-92ae-a1b29fcc1f2e.png)
 Picture link: [https://bit.ly/3bzexN0](https://bit.ly/3bzexN0)
+
+## 5-Website Design : doing more with less time
+
+> Productivity is never an accident. It is always the result of a commitment to excellence, intelligent planning, and focused effort.” ~ Paul J. Meyer
+
+
  
  
-## 5-Hands-On HTML/CSS/Bootstrap/JS on EDITOR
+## 5-Hands-On HTML
 
 * Notepad (Windows), TextEdit (MAC)
 * Online editor -> [https://html-online.com/](https://html-online.com/) or [https://htmlcheatsheet.com/](https://htmlcheatsheet.com/)
@@ -99,16 +105,10 @@ Picture link: [https://bit.ly/3bzexN0](https://bit.ly/3bzexN0)
 -The Poem Problem
 -The HTML <pre> Element
 
-*
-*
-*
+* **More info in [W3School](https://www.w3schools.com/html/default.asp)
 
+## 6-Hands-On CSS
 
-## 6-Hands-On HTML/CSS/Bootstrap/JS on EDITOR
-
-## 7-Hands-On HTML/CSS/Bootstrap/JS on EDITOR
-
-## 8-Hands-On HTML/CSS/Bootstrap/JS on EDITOR
 
    
   
