@@ -92,9 +92,16 @@ Picture link: [https://bit.ly/3bzexN0](https://bit.ly/3bzexN0)
 -The HTML <head> Element
   
 * **HTML Paragraphs** :
--
--
--
+-HTML Paragraphs
+-HTML Display
+-Don't Forget the End Tag
+-HTML Line Breaks
+-The Poem Problem
+-The HTML <pre> Element
+
+*
+*
+*
 
 
 ## 6-Hands-On HTML/CSS/Bootstrap/JS on EDITOR
@@ -112,9 +119,11 @@ Picture link: [https://bit.ly/3bzexN0](https://bit.ly/3bzexN0)
 * 13.02.2020
 * 14.02.2020
 * 01.03.2020
+* 08.03.2020
 
 ### References
 
 * [Github](github.com)
 * [W3Schools](https://www.w3schools.com/)
+* [Codementor](https://www.codementor.io/)
 
