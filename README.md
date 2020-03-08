@@ -103,9 +103,10 @@ Picture link: [https://bit.ly/3bzexN0](https://bit.ly/3bzexN0)
 -Don't Forget the End Tag
 -HTML Line Breaks
 -The Poem Problem
--The HTML <pre> Element
+-The HTML<pre>Element
 
-* **More info in [W3School](https://www.w3schools.com/html/default.asp)
+* **More info in [W3School](https://www.w3schools.com/html/default.asp)**
+
 
 ## 6-Hands-On CSS
 
