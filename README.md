@@ -74,7 +74,46 @@ Picture link: [Nicole Saidy](https://www.codementor.io/)
 * Listen to their ideas
 * Client questionnaire
 
+### Step 2: Research & sketch
 
+* Sketching
+* Researching
+* Trend
+
+
+### Step 3: Wireframes
+
+* List all your elements to include on a web page
+* Element placement
+* Information hierarchy
+* Interactivity
+* https://proto.io/
+* https://wireframe.cc/
+* https://balsamiq.com/
+* [Example](https://forrst-live.s3.amazonaws.com/multiposts/images/46135/original.jpg?1368261933)
+
+
+### Step 4: Style guides
+
+* Fonts
+* Colors and 
+* Typography
+* Button Styles
+* Shape
+* Layout
+* Photography/Illustration
+* Iconography
+* Interface elements
+* From concept to visual
+* Consistency
+* Time efficient
+* [Example](https://dribbble.com/tags/style_tile)
+
+
+Step 5: Prototype
+
+* https://www.invisionapp.com/
+* https://www.uxpin.com/
 
  
  
