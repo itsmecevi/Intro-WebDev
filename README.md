@@ -3,9 +3,6 @@
 <span>&#129311;</span> 
 Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
-<span>&#9993;</span>
-Slack Instant Messaging -> [Click Here](https://join.slack.com/t/so-hotworkspace/shared_invite/enQtOTUwOTYyMDEwMjQ2LTQ3M2M4Yjk4MzgyOTk0ZmNjMmNlZTM3N2YzYjdmN2U0OTMxZjljNDA5OGFkYzlhYTQ4ZDBhY2IwZmZjNWU3ODc)
-
 <span>&#128221;</span>
 ASK -> Agile, Scrum, Kanban ? [Cheat](https://www.youtube.com/watch?v=rIaz-l1Kf8w)
 
